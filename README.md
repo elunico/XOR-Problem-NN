@@ -11,4 +11,5 @@ of the canvas.
 Here is an example of the program running. Due to the high demand on the CPU,
 of this program, it is not currently being hosted anywhere.
 
-![Animated GIF showing the sketch running and a user interacting with it]("assets/image.gif")
+Example of the sketch running.
+![Animated GIF showing the sketch running and a user interacting with it](assets/image.gif)
