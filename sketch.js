@@ -46,7 +46,7 @@ function setup() {
   let epochsDiv = createDiv('Epochs per Frame: 55');
   epochsSlider = createSlider(1, 250, 55, 1);
   epochsSlider.input(() => {
-    stepsDiv.html(`Epochs per Frame: ${epochsSlider.value()}`);
+    epochsDiv.html(`Epochs per Frame: ${epochsSlider.value()}`);
   });
 
   frameRateDiv = createDiv('');
